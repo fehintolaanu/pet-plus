@@ -1,5 +1,5 @@
 body{
-    background-color: violet;
+    background-color: #E3A4E4;
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: white;
@@ -8,13 +8,15 @@ body{
 #first-container{
     text-align: left;
     width: 50%;
-    margin:100px auto 100px auto;
+    margin:100px auto 100px auto;  
+    color: #881C8A;
 }
 
     #second-container{
         text-align: left;
         width: 50%;
          margin:100px auto 100px auto;
+         color: #881C8A;
     }
 
    button{
